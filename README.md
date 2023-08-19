@@ -1,4 +1,4 @@
-# MIPS Pipelined Processor Simulator
+# Pipelined MIPS Processor Simulator
 ## Second project of the UF 21 fall CAP class
 ### This project was developed on top of project 1, with some modification and extension, it can perform much more complicated cycle-by-cycle simulation. <br/>
 ### This simulator will take a txt file contains only binary codes as input, and then generate the assembly codes accordingly just like project 1.
