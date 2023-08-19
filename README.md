@@ -9,7 +9,7 @@
 Sample binary inputs(part of): <br/>
 ![image](https://github.com/AlexWeiZH/Computer-Architecture-Principle-Fall-2021/assets/98062338/742b5040-baa3-4157-a81c-996bee1aae4a)
  <br/>
-The correspoding output: <br/>
+The correspoding output(cycle 1): <br/>
 ![image](https://github.com/AlexWeiZH/Computer-Architecture-Principle-Fall-2021/assets/98062338/2d05b1c3-d224-41ff-ba85-05b9e7322d85)
 
 
